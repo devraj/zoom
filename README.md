@@ -14,6 +14,16 @@ This repository is an attempt to keep the source code that I spent many years bu
 
 ### Data
 
-The data files are missing at present, I am cleaning them up and will leave detailed instructions on how the backend worked.
+The data files are missing at present, I am cleaning them up and will leave detailed instructions on how the backend worked. There's a [Python library](http://pythonhosted.org/dbf/) that can speak the original [DBF](https://en.wikipedia.org/wiki/.dbf) file format in case you would be interested in inspecting the data. 
 
-There's a [Python library](http://pythonhosted.org/dbf/) that can speak the original [DBF](https://en.wikipedia.org/wiki/.dbf) file format in case you would be interested in inspecting the data. 
+## Features
+
+The photography lab provided the following services:
+
+- Sales of cameras, films and accessories
+- Processing of films and printing photographs (various sizes) 
+- Specialist processing such as [E-6](https://en.wikipedia.org/wiki/E-6_process)
+
+The business had direct customers (along with a loyal program) and agents (satellite businesses that would bring bulk work for processing and would be given a better price).
+
+Zoom was a multi user system with authorization. It features extensive reporting for the business (most printed on [dot matrix printers](https://en.wikipedia.org/wiki/Dot_matrix_printing)).
